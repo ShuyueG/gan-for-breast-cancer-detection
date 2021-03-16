@@ -9,6 +9,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430964/
 
 Codes description
 =====
-The flowchart of experiment plan. Red file names show what codes are used for in our experiments.
+### The flowchart of experiment plan. Red file names show what codes are used for in our experiments.
+
 
 <div align=center><img src="https://raw.githubusercontent.com/ShuyueG/gan-for-breast-cancer-detection/d290800b58c1135def3fc79dc07a36ea0e6ff05f/gan4breast_flowchart.svg" width="900" alt="flowchart"/></div>
