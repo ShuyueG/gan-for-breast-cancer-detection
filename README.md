@@ -12,4 +12,4 @@ Codes description
 ### The flowchart of experiment plan. Red file names show what codes are used for in our experiments.
 
 
-<div align=center><img src="https://raw.githubusercontent.com/ShuyueG/gan-for-breast-cancer-detection/d290800b58c1135def3fc79dc07a36ea0e6ff05f/gan4breast_flowchart.svg" width="800" alt="flowchart"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/ShuyueG/gan-for-breast-cancer-detection/35d96ede985b2d5a0684d56d9c13b0b6421e929d/gan4breast_flowchart.svg" width="800" alt="flowchart"/></div>
