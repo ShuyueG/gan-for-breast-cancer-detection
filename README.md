@@ -2,7 +2,7 @@ Related paper
 ======
 ### Breast cancer detection using synthetic mammograms from generative adversarial networks in convolutional neural networks
 
-`Citation` Guan, S., & Loew, M. (2019). Breast cancer detection using synthetic mammograms from generative adversarial networks in convolutional neural networks. Journal of medical imaging (Bellingham, Wash.), 6(3), 031411. https://doi.org/10.1117/1.JMI.6.3.031411
+`Citation` Guan, S., & Loew, M. (2019). Breast cancer detection using synthetic mammograms from generative adversarial networks in convolutional neural networks. Journal of medical imaging (Bellingham, Wash.), 6(3), 031411, doi: 10.1117/1.JMI.6.3.031411.
 
 [`Paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430964/)
 
