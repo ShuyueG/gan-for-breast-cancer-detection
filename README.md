@@ -15,6 +15,7 @@ Codes description
 
 `JMI`
 <div align=center><img src="https://raw.githubusercontent.com/ShuyueG/gan-for-breast-cancer-detection/35d96ede985b2d5a0684d56d9c13b0b6421e929d/gan4breast_flowchart.svg" width="800" alt="flowchart"/></div>
+
 ==============================================
 
 `SPIE`
