@@ -2,9 +2,14 @@ Related paper
 ======
 ### Breast cancer detection using synthetic mammograms from generative adversarial networks in convolutional neural networks
 
-`Citation` Guan, S., & Loew, M. (2019). Breast cancer detection using synthetic mammograms from generative adversarial networks in convolutional neural networks. Journal of medical imaging (Bellingham, Wash.), 6(3), 031411, doi: 10.1117/1.JMI.6.3.031411.
+`JMI` Guan, S., & Loew, M. (2019). Breast cancer detection using synthetic mammograms from generative adversarial networks in convolutional neural networks. Journal of medical imaging (Bellingham, Wash.), 6(3), 031411, doi: 10.1117/1.JMI.6.3.031411.
 
 [`Paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430964/)
+
+`SPIE` Shuyue Guan, Murray Loew, "Using generative adversarial networks and transfer learning for breast cancer detection by convolutional neural networks," Proc. SPIE 10954, Medical Imaging 2019: Imaging Informatics for Healthcare, Research, and Applications, 109541C (25 March 2019); doi: 10.1117/12.2512671.
+
+[`Paper`](https://shuyueg.github.io/doc/SPIE2019.pdf)
+
 
 Codes description
 =====
